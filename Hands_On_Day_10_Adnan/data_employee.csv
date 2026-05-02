@@ -1,0 +1,156 @@
+employee_id,name,age,gender,department,education,years_experience,salary,performance_score,satisfaction_level,projects_completed,overtime_hours
+1,Employee_1,58.0,female,IT,S2,7,9991337.0,74.6,High,31,46.0
+2,Employee_2,48.0,Male,IT,D3,9,16219239.0,79.5,Very High,45,7.6
+3,Employee_3,34.0,Male,IT,S1,8,11166291.0,94.0,High,42,7.8
+4,Employee_4,27.0,Male,IT,S2,17,19749863.0,63.5,Low,15,0.2
+5,Employee_5,40.0,M,Sales,SMP,26,9404562.0,92.2,High,3,96.8
+6,Employee_6,58.0,female,HR,,25,15742831.0,62.2,Low,36,269.9406459491699
+7,Employee_7,38.0,Male,,SMP,1,9680821.0,93.7,Low,20,10.3
+8,Employee_8,,F,HR,D3,4,17095792.0,62.1,Low,13,31.5
+9,Employee_9,,male,HR,SMP,28,12674385.0,60.7,Medium,30,80.7
+10,Employee_10,30.0,Male,Finance,SMA,4,4079701.0,87.9,Very High,47,96.2
+11,Employee_11,43.0,M,Sales,D3,5,3625972.0,99.9,Low,17,79.0
+12,Employee_12,55.0,female,IT,SMP,18,5275486.0,95.9,Low,6,69.1
+13,Employee_13,59.0,M,IT,D3,7,3232423.0,83.0,Medium,9,52.1
+14,Employee_14,43.0,Male,Marketing,,15,4281104.0,96.7,Low,6,8.7
+15,Employee_15,22.0,female,IT,S1,12,14759145.0,60.2,High,32,95.8
+16,Employee_16,41.0,male,Sales,SMP,0,,99.0,High,22,75.8
+17,Employee_17,21.0,Male,Marketing,D3,21,15748483.0,79.6,Very High,20,63.9
+18,Employee_18,,M,Sales,SMA,19,18523818.0,88.9,Low,18,75.9
+19,Employee_19,49.0,Female,,SMP,16,12947542.0,92.8,Medium,47,72.4
+20,Employee_20,57.0,F,Marketing,S1,6,15344054.0,88.7,High,18,63.7
+21,Employee_21,21.0,M,HR,S1,24,15870380.0,81.4,Medium,35,98.1
+22,Employee_22,40.0,female,IT,SMP,12,9423459.0,79.1,Medium,28,90.3
+23,Employee_23,52.0,Male,IT,D3,3,7098442.0,93.5,High,17,64.7
+24,Employee_24,31.0,F,Marketing,S1,3,6485771.0,68.2,Medium,1,69.3
+25,Employee_25,41.0,Male,Marketing,D3,5,7274521.0,98.7,High,0,5.2
+26,Employee_26,44.0,female,IT,S1,27,7670441.0,88.4,Medium,46,67.0
+27,Employee_27,46.0,Male,Sales,S1,18,6522870.0,68.0,High,4,4.4
+28,Employee_28,47.0,Unknown,IT,S2,28,91124028.18171805,89.4,Low,19,58.8
+29,Employee_29,35.0,F,Sales,S1,11,98780510.04299575,81.2,Very High,10,99.9
+30,Employee_30,34.0,F,,SMA,21,3797240.0,88.3,High,41,259.30711625753105
+31,Employee_31,22.0,female,HR,SMP,6,7567432.0,90.7,High,1,47.3
+32,Employee_32,56.0,Female,Marketing,SMP,26,3377141.0,63.5,Very High,2,31.3
+33,Employee_33,26.0,M,IT,,9,11468808.0,80.2,High,22,12.1
+34,Employee_34,40.0,Male,Sales,S1,25,11095582.0,97.3,High,11,73.1
+35,Employee_35,28.0,male,Sales,SMA,18,17133315.0,72.8,Medium,19,19.3
+36,Employee_36,58.0,Male,IT,D3,6,8232213.0,83.8,Very High,4,11.5
+37,Employee_37,37.0,Male,IT,S2,29,16878557.0,74.8,Low,36,42.2
+38,Employee_38,23.0,M,Sales,D3,2,19455554.0,78.2,High,37,79.5
+39,Employee_39,44.0,Male,HR,D3,12,,81.9,Very High,29,74.5
+40,Employee_40,33.0,Female,Marketing,S1,12,16460903.0,82.0,Medium,8,5.5
+41,Employee_41,28.0,Female,IT,,17,13029250.0,68.1,Low,33,45.5
+42,Employee_42,45.0,F,Marketing,D3,27,11160781.0,87.4,Very High,43,52.2
+43,Employee_43,,female,Sales,SMA,29,84747554.44512308,63.5,Low,34,64.5
+44,Employee_44,39.0,male,Sales,SMA,25,16339360.0,65.6,Low,21,65.0
+45,Employee_45,47.0,Male,IT,SMP,19,13869143.0,60.1,Low,43,36.5
+46,Employee_46,26.0,Male,HR,S2,27,16685759.0,64.7,High,23,56.1
+47,Employee_47,27.0,M,Finance,S2,7,18353568.0,78.9,High,16,48.1
+48,Employee_48,54.0,Unknown,,SMP,28,82048603.8672666,84.2,Medium,9,88.5
+49,Employee_49,33.0,Female,Finance,D3,8,19667866.0,91.8,Medium,29,53.0
+50,Employee_50,36.0,male,IT,S2,6,13337493.0,64.3,Very High,45,44.1
+51,Employee_51,55.0,F,Finance,SMA,0,13822953.0,94.0,Medium,22,237.03911357349358
+52,Employee_52,59.0,Female,HR,SMA,2,12431865.0,89.8,Low,31,57.2
+53,Employee_53,23.0,female,IT,S1,12,4547036.0,76.3,Low,16,80.4
+54,Employee_54,,F,,S2,27,15348750.0,97.3,High,49,53.8
+55,Employee_55,25.0,M,IT,D3,29,12306587.0,99.6,Low,16,66.2
+56,Employee_56,23.0,M,Finance,SMP,24,10665478.0,68.2,Very High,13,73.8
+57,Employee_57,48.0,Male,HR,SMP,27,,75.2,Low,8,354.93070623623635
+58,Employee_58,37.0,female,Finance,D3,16,8065311.0,97.1,Low,39,42.7
+59,Employee_59,45.0,male,Finance,,24,11901239.0,88.9,Very High,1,87.7
+60,Employee_60,53.0,F,Finance,SMP,23,14859912.0,61.9,Medium,44,41.8
+61,Employee_61,29.0,Female,IT,S2,0,16540020.0,91.3,Medium,24,46.2
+62,Employee_62,55.0,female,IT,S1,5,10808896.0,93.1,Very High,38,99.0
+63,Employee_63,33.0,female,IT,S2,20,17315554.0,90.0,High,8,0.0
+64,Employee_64,50.0,M,HR,SMA,5,16071602.0,92.0,Low,21,18.5
+65,Employee_65,34.0,Unknown,IT,S1,25,4126012.0,93.0,Very High,42,38.4
+66,Employee_66,27.0,Male,Sales,SMP,11,3779642.0,67.5,Low,45,93.3
+67,Employee_67,33.0,F,Finance,S1,12,13553697.0,69.4,High,3,7.0
+68,Employee_68,42.0,M,Finance,S1,12,8906028.0,85.4,Low,25,0.9
+69,Employee_69,59.0,female,HR,S1,28,6555223.0,96.3,Very High,28,5.3
+70,Employee_70,40.0,male,Finance,S1,14,12854049.0,72.6,Low,44,8.9
+71,Employee_71,35.0,M,IT,S2,20,8806575.0,83.5,Medium,33,3.8
+72,Employee_72,37.0,Unknown,Sales,SMA,15,12133478.0,87.3,High,22,48.0
+73,Employee_73,43.0,F,Marketing,D3,21,10822026.0,78.1,High,36,58.1
+74,Employee_74,45.0,M,Finance,S1,20,12941024.0,88.6,High,10,27.2
+75,Employee_75,44.0,F,IT,SMP,10,9805108.0,96.0,Very High,5,39.8
+76,Employee_76,48.0,M,Marketing,S1,27,14860349.0,85.0,High,17,9.2
+77,Employee_77,34.0,Female,Sales,SMP,4,6061144.0,81.6,Medium,20,33.6
+78,Employee_78,20.0,M,Marketing,S2,3,14840525.0,77.5,Very High,41,52.3
+79,Employee_79,44.0,M,IT,SMP,2,9998241.0,83.1,Medium,35,73.2
+80,Employee_80,26.0,F,IT,D3,18,17863399.0,74.2,Low,40,0.3
+81,Employee_81,28.0,F,IT,SMA,19,11759013.0,75.7,Low,37,46.7
+82,Employee_82,43.0,Male,Marketing,SMP,24,19542876.0,81.3,Low,33,29.7
+83,Employee_83,20.0,Male,HR,SMP,17,13232902.0,62.7,Low,16,85.3
+84,Employee_84,,Female,Marketing,SMA,14,6805434.0,69.2,Medium,36,71.6
+85,Employee_85,43.0,Male,Finance,D3,8,,81.7,Very High,24,58.9
+86,Employee_86,30.0,M,Finance,S1,16,8866405.0,77.3,Very High,37,27.7
+87,Employee_87,36.0,Unknown,IT,SMP,13,8909527.0,73.3,High,11,91.0
+88,Employee_88,27.0,Male,HR,SMA,14,3540680.0,89.2,Medium,22,4.5
+89,Employee_89,54.0,Male,IT,S2,0,12328160.0,87.7,Low,41,10.9
+90,Employee_90,,Female,Finance,SMA,20,12085200.0,66.7,Medium,21,39.2
+91,Employee_91,52.0,female,IT,,21,9051855.0,95.1,High,20,12.4
+92,Employee_92,24.0,Female,,D3,21,18201693.0,79.8,High,26,95.6
+93,Employee_93,58.0,M,IT,S1,2,5188723.0,89.7,Medium,30,79.8
+94,Employee_94,47.0,F,Finance,SMA,15,8611692.0,82.9,Medium,5,25.9
+95,Employee_95,26.0,Female,Finance,SMP,22,8466907.0,99.9,Medium,26,58.9
+96,Employee_96,28.0,Male,IT,D3,24,4568940.0,90.1,Very High,39,98.2
+97,Employee_97,27.0,F,IT,SMA,10,11179472.0,88.3,Low,33,88.4
+98,Employee_98,31.0,F,Marketing,SMP,11,14692340.0,91.1,Medium,11,60.1
+99,Employee_99,,Male,Finance,SMA,9,11698169.0,65.7,Medium,44,90.4
+100,Employee_100,52.0,Female,IT,S2,15,,68.2,Medium,6,98.9
+101,Employee_101,42.0,Male,IT,SMA,7,9413861.0,88.6,High,9,74.3
+102,Employee_102,43.0,female,HR,SMA,5,3044115.0,79.8,High,44,6.5
+103,Employee_103,56.0,F,Marketing,SMA,11,17761119.0,90.2,Very High,16,40.2
+104,Employee_104,54.0,male,Sales,D3,23,,64.1,Low,25,83.8
+105,Employee_105,59.0,male,IT,SMA,27,13153727.0,81.5,Very High,20,23.1
+106,Employee_106,41.0,M,,SMP,20,19766369.0,75.2,Low,27,83.1
+107,Employee_107,46.0,Male,Marketing,,7,12122041.0,78.3,High,45,12.0
+108,Employee_108,54.0,Male,Marketing,S2,25,18708710.0,84.2,High,1,4.7
+109,Employee_109,20.0,M,Marketing,SMA,27,7013981.0,80.1,High,42,38.4
+110,Employee_110,54.0,M,Sales,D3,3,15919242.0,81.6,Very High,0,3.7
+111,Employee_111,56.0,M,Marketing,D3,25,12031518.0,79.5,Medium,35,95.7
+112,Employee_112,33.0,F,IT,SMP,7,15248773.0,76.4,Medium,25,270.65028170041285
+113,Employee_113,22.0,female,Sales,SMA,25,4059803.0,90.9,High,28,332.27412221408287
+114,Employee_114,20.0,Male,Marketing,S2,27,5511565.0,60.5,Medium,20,63.0
+115,Employee_115,24.0,F,IT,D3,17,,83.9,Medium,10,21.6
+116,Employee_116,,M,HR,SMA,27,58676225.74932543,82.6,Very High,39,51.8
+117,Employee_117,33.0,Male,Marketing,,27,17355491.0,88.6,Low,10,59.7
+118,Employee_118,58.0,F,Sales,D3,4,15743476.0,84.0,High,35,52.5
+119,Employee_119,46.0,female,Finance,S2,8,3518027.0,93.1,High,48,26.0
+120,Employee_120,,F,Marketing,S1,3,17742655.0,98.4,Very High,38,51.5
+121,Employee_121,34.0,female,Finance,SMP,26,9020493.0,73.7,Very High,39,49.1
+122,Employee_122,34.0,M,IT,,21,9751785.0,69.1,Medium,34,99.6
+123,Employee_123,45.0,female,HR,S2,16,4782776.0,76.9,High,33,89.7
+124,Employee_124,32.0,Male,IT,,8,15535889.0,71.5,Low,46,46.3
+125,Employee_125,51.0,M,HR,SMA,0,6098826.0,84.6,Very High,23,62.3
+126,Employee_126,58.0,Male,Marketing,D3,20,12587407.0,96.5,Low,21,74.8
+127,Employee_127,51.0,male,Finance,S2,19,17292070.0,65.6,Low,4,3.5
+128,Employee_128,23.0,Female,Finance,SMP,12,4516474.0,64.0,High,32,89.5
+129,Employee_129,49.0,female,Sales,D3,27,12100705.0,70.2,High,35,86.0
+130,Employee_130,56.0,Female,Finance,SMP,15,6964679.0,89.0,Very High,46,45.7
+131,Employee_131,42.0,Female,Sales,SMA,28,8829757.0,83.7,High,19,39.1
+132,Employee_132,58.0,female,IT,SMP,12,11057489.0,64.1,High,18,27.3
+133,Employee_133,34.0,M,IT,,13,9036773.0,96.8,High,34,47.7
+134,Employee_134,48.0,male,Marketing,S1,2,14029988.0,91.6,Low,42,4.4
+135,Employee_135,55.0,Male,Sales,S1,28,11152896.0,60.9,Very High,16,85.2
+136,Employee_136,32.0,F,,S1,5,12931391.0,86.1,Medium,44,3.5
+137,Employee_137,51.0,Male,Finance,,17,15525982.0,90.8,Low,42,32.9
+138,Employee_138,,F,Finance,S2,18,12481619.0,75.0,High,33,93.2
+139,Employee_139,41.0,Male,IT,SMP,4,67304986.32688928,62.8,Low,8,73.5
+140,Employee_140,47.0,female,Finance,S2,14,12595795.0,63.1,High,25,28.1
+141,Employee_141,,male,IT,S2,24,9439135.0,64.2,High,1,25.3
+142,Employee_142,,F,IT,S1,1,8736596.0,93.6,Low,8,0.5
+143,Employee_143,47.0,M,IT,D3,9,18294006.0,96.4,Very High,8,69.6
+144,Employee_144,47.0,Male,Sales,SMA,23,13328439.0,64.9,High,39,4.9
+145,Employee_145,39.0,Male,Sales,S1,29,7154004.0,69.4,Very High,16,53.3
+146,Employee_146,49.0,F,IT,S1,17,11470211.0,66.6,Medium,0,96.2
+147,Employee_147,30.0,M,Sales,D3,26,,67.5,High,24,10.9
+148,Employee_148,47.0,M,Sales,SMA,12,,93.5,Very High,42,89.4
+149,Employee_149,44.0,female,IT,SMP,4,3128084.0,73.3,Very High,39,99.1
+150,Employee_150,,female,Sales,SMP,22,6830658.0,72.5,Medium,41,6.2
+74,Employee_74,45.0,M,Finance,S1,20,56626233.63709242,88.6,High,10,27.2
+19,Employee_19,,Female,HR,SMP,16,93100724.11363113,92.8,Medium,47,72.4
+119,Employee_119,46.0,female,Finance,S2,8,3518027.0,93.1,High,48,26.0
+79,Employee_79,44.0,M,IT,SMP,2,,83.1,Medium,35,73.2
+77,Employee_77,34.0,Female,Sales,SMP,4,6061144.0,81.6,Medium,20,33.6

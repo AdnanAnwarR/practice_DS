@@ -1,0 +1,101 @@
+height_cm,weight_kg,temperature,salary,age,children_count,years_experience,gender,city,department,work_type,education,job_level,satisfaction,hire_date,phone
+165.0,46.4,37.0,3620181.0,58,0,16,Female,Medan,HR,Office,S1,Senior,Medium,2020-01-01,564071
+188.0,73.6,36.1,9376256.0,47,0,15,Male,Bandung,IT,Remote,SMP,Mid,Very High,2020-01-04,0898798296
+179.3,59.1,36.2,9487621.0,34,0,14,Male,Surabaya,IT,Hybrid,SMA,Senior,Medium,2020-01-07,0820563214
+173.9,67.9,37.3,10649159.0,37,4,22,Male,Medan,IT,Remote,D3,Mid,High,2020-01-10,0834374842
+156.2,85.8,36.9,11713096.0,42,2,14,Female,Surabaya,IT,Remote,SMA,Senior,Low,2020-01-13,0891252249
+156.2,56.2,36.0,14710225.0,39,0,4,Male,Jakarta,HR,Remote,SMA,Senior,High,2020-01-16,0897384552
+152.3,63.5,36.2,9195604.0,30,2,20,Male,Bandung,HR,Remote,D3,Senior,Low,2020-01-19,0838172140
+184.6,79.0,37.0,6875478.0,36,3,13,Male,Jakarta,Marketing,Office,SMA,Lead,Very High,2020-01-22,0868701337
+174.0,55.3,36.0,12542234.0,53,1,1,Female,Jakarta,Finance,Office,D3,Lead,High,2020-01-25,0845119150
+178.3,48.5,36.2,6249987.0,29,3,10,Male,Jakarta,HR,Remote,SMP,Junior,Medium,2020-01-28,0865471391
+150.8,58.0,36.8,8267657.0,58,3,18,Female,Jakarta,HR,Hybrid,D3,Junior,Low,2020-01-31,137641
+188.8,52.3,37.0,3941477.0,36,4,6,Female,Bandung,Finance,Hybrid,D3,Mid,Low,2020-02-03,0891597126
+183.3,86.8,37.0,3304209.0,29,1,5,Male,Jakarta,HR,Hybrid,S1,Lead,High,2020-02-06,0833387092
+158.5,81.4,36.3,14551781.0,26,3,27,Male,Bandung,IT,Hybrid,D3,Mid,Very High,2020-02-09,0829156053
+157.3,73.5,37.1,13031761.0,24,3,1,Female,Bandung,IT,Remote,D3,Junior,High,2020-02-12,0849678201
+157.3,84.2,36.4,11351690.0,45,1,5,Male,Surabaya,Finance,Office,SMP,Mid,Very High,2020-02-15,0811524102
+162.2,81.2,36.5,7907435.0,31,1,17,Male,Medan,Marketing,Hybrid,S1,Junior,Very High,2020-02-18,0821579149
+171.0,53.4,37.1,5079532.0,48,3,1,Female,Medan,Marketing,Remote,S2,Lead,Low,2020-02-21,0852607220
+167.3,85.2,37.0,4877245.0,36,1,17,Female,Bandung,Finance,Hybrid,SMP,Senior,High,2020-02-24,0862715014
+161.6,69.3,37.3,6002915.0,33,3,29,Male,Surabaya,Finance,Hybrid,SMP,Lead,High,2020-02-27,0879144712
+174.5,81.3,37.0,9590720.0,22,3,14,Female,Bandung,IT,Remote,S2,Mid,Very High,2020-03-01,442703
+155.6,85.3,36.9,11575151.0,52,4,26,Male,Bandung,Marketing,Office,D3,Mid,High,2020-03-04,0819913841
+161.7,59.3,36.1,10922369.0,29,0,18,Male,Bandung,HR,Office,SMA,Lead,Medium,2020-03-07,0876626362
+164.7,50.0,36.6,6359207.0,42,3,1,Male,Surabaya,IT,Remote,S1,Lead,Medium,2020-03-10,0839061846
+168.2,55.3,36.4,14458383.0,38,2,19,Female,Medan,Finance,Office,SMA,Junior,High,2020-03-13,0870523996
+181.4,64.2,36.4,11854763.0,53,0,24,Male,Surabaya,Marketing,Remote,S2,Mid,High,2020-03-16,0833468625
+158.0,81.8,37.5,9652249.0,40,0,5,Male,Jakarta,HR,Remote,SMP,Mid,Very High,2020-03-19,0888566365
+170.6,83.7,36.6,10340649.0,33,0,0,Male,Surabaya,HR,Remote,SMP,Lead,Medium,2020-03-22,0813433382
+173.7,45.3,37.3,8035201.0,56,4,23,Female,Surabaya,IT,Office,S1,Senior,Medium,2020-03-25,0885779042
+151.9,68.0,36.9,5972772.0,59,3,14,Female,Surabaya,Marketing,Remote,SMP,Mid,Low,2020-03-28,0838348817
+174.3,63.8,37.2,7271672.0,56,4,27,Female,Surabaya,Marketing,Hybrid,SMP,Senior,Very High,2020-03-31,349321
+156.8,55.0,36.8,12094153.0,31,3,29,Female,Medan,Finance,Office,S1,Lead,Low,2020-04-03,0893952230
+152.6,50.4,36.9,3172722.0,48,4,22,Female,Jakarta,Marketing,Office,S1,Lead,Medium,2020-04-06,0834728848
+188.0,60.2,36.7,4392872.0,22,4,9,Male,Medan,Marketing,Office,S2,Junior,Very High,2020-04-09,0820822814
+188.6,87.4,36.3,3552032.0,52,2,18,Female,Medan,IT,Office,SMP,Mid,High,2020-04-12,0899967767
+182.3,59.5,37.1,3488746.0,40,4,16,Female,Surabaya,Marketing,Hybrid,SMP,Senior,Very High,2020-04-15,0858356322
+162.2,68.3,36.4,13265527.0,46,1,4,Female,Bandung,HR,Office,S2,Junior,High,2020-04-18,0862879148
+153.9,76.6,36.0,11443894.0,28,2,28,Male,Bandung,IT,Office,D3,Mid,High,2020-04-21,0872076001
+177.4,61.4,37.0,8690086.0,35,4,3,Female,Medan,IT,Remote,D3,Junior,Very High,2020-04-24,0852942594
+167.6,88.7,36.3,4174010.0,29,0,9,Female,Medan,Finance,Office,D3,Lead,High,2020-04-27,0847747492
+154.9,88.3,37.4,8899391.0,26,1,23,Male,Surabaya,Marketing,Hybrid,S2,Mid,Low,2020-04-30,234055
+169.8,56.3,37.4,8681661.0,27,1,16,Female,Medan,Finance,Hybrid,SMP,Junior,Medium,2020-05-03,0825170521
+151.4,67.4,37.4,5078422.0,34,1,9,Male,Surabaya,HR,Hybrid,S2,Junior,High,2020-05-06,0835841846
+186.4,58.5,36.6,8206220.0,55,2,16,Male,Bandung,IT,Hybrid,S2,Senior,Low,2020-05-09,0822267883
+160.4,57.8,36.0,7782057.0,24,4,27,Male,Bandung,IT,Office,D3,Junior,High,2020-05-12,0852639398
+176.5,46.7,37.4,10390201.0,30,4,19,Male,Jakarta,IT,Office,SMA,Mid,Medium,2020-05-15,0821984398
+162.5,72.4,36.6,10621124.0,57,0,23,Male,Bandung,HR,Hybrid,SMP,Mid,Low,2020-05-18,0845396080
+170.8,67.6,37.4,3543648.0,59,0,4,Female,Medan,HR,Hybrid,D3,Senior,Medium,2020-05-21,0840715395
+171.9,47.3,37.4,7495351.0,26,1,1,Male,Bandung,Finance,Office,SMA,Mid,Medium,2020-05-24,0850686940
+157.4,57.5,37.3,10510319.0,44,0,5,Male,Surabaya,Finance,Hybrid,SMA,Lead,Low,2020-05-27,0833215061
+188.8,85.9,36.4,9037635.0,19,2,20,Female,Bandung,Finance,Remote,S1,Mid,Low,2020-05-30,739896
+181.0,55.8,36.6,13277878.0,22,4,1,Male,Jakarta,Marketing,Hybrid,SMP,Mid,Low,2020-06-02,0892058636
+187.6,51.5,37.3,10904324.0,46,1,12,Female,Bandung,IT,Hybrid,SMA,Junior,Very High,2020-06-05,0813828433
+185.8,67.0,36.5,4955213.0,54,0,29,Female,Surabaya,IT,Remote,D3,Junior,Low,2020-06-08,0896621344
+173.9,89.4,36.3,3846825.0,55,2,10,Female,Surabaya,Finance,Remote,S1,Mid,Low,2020-06-11,0857149071
+186.9,55.9,36.8,10709031.0,36,2,10,Male,Medan,IT,Office,SMP,Senior,Low,2020-06-14,0898334828
+153.5,75.2,37.4,3318136.0,25,0,15,Male,Bandung,Finance,Office,S2,Junior,Low,2020-06-17,0817152747
+157.8,79.3,37.0,10029307.0,18,4,10,Male,Surabaya,Marketing,Remote,D3,Senior,High,2020-06-20,0871029245
+151.8,55.7,36.9,14282763.0,39,0,18,Female,Jakarta,Marketing,Remote,SMA,Mid,Very High,2020-06-23,0858344513
+163.0,77.8,36.1,9905690.0,34,1,14,Male,Medan,HR,Office,SMA,Mid,Medium,2020-06-26,0811020154
+165.5,61.6,36.9,7658039.0,24,0,24,Male,Jakarta,Marketing,Hybrid,D3,Lead,Low,2020-06-29,915862
+160.9,73.5,37.5,10719459.0,42,2,22,Male,Bandung,Finance,Remote,SMA,Junior,High,2020-07-02,0848499601
+183.1,73.5,36.2,8499035.0,21,0,22,Female,Bandung,Marketing,Office,S1,Mid,High,2020-07-05,0816733215
+164.3,69.1,36.8,9547401.0,53,4,15,Female,Bandung,HR,Hybrid,SMP,Lead,High,2020-07-08,0885304674
+161.2,49.1,37.3,14297578.0,23,3,10,Male,Medan,IT,Remote,S1,Junior,Medium,2020-07-11,0842339834
+171.7,82.6,37.1,7633232.0,48,0,21,Male,Surabaya,Finance,Hybrid,SMA,Mid,Low,2020-07-14,0850739629
+155.6,59.4,37.0,14534287.0,36,4,15,Male,Medan,IT,Office,S2,Mid,Very High,2020-07-17,0839900787
+182.1,53.4,37.1,13864208.0,56,4,7,Male,Jakarta,HR,Remote,SMP,Junior,Very High,2020-07-20,0883823165
+153.0,46.8,36.5,5349494.0,44,2,3,Female,Medan,HR,Hybrid,SMP,Junior,High,2020-07-23,0837259197
+189.5,71.6,36.4,3832336.0,27,4,7,Female,Jakarta,HR,Remote,D3,Junior,Medium,2020-07-26,0857784180
+180.9,75.5,37.2,4209336.0,43,4,3,Female,Medan,IT,Hybrid,D3,Mid,Medium,2020-07-29,293259
+157.9,45.7,37.2,3218662.0,36,4,23,Female,Surabaya,IT,Office,S2,Mid,Medium,2020-08-01,0820760888
+150.2,68.0,37.3,4133316.0,56,4,24,Male,Jakarta,IT,Office,SMP,Lead,Very High,2020-08-04,0888414095
+182.6,55.2,37.4,11196081.0,20,1,2,Male,Bandung,IT,Remote,S2,Senior,High,2020-08-07,0875856750
+178.3,74.0,36.8,3854264.0,30,1,2,Male,Bandung,HR,Hybrid,D3,Junior,Low,2020-08-10,0888483721
+179.2,52.8,36.8,6827708.0,45,2,26,Female,Medan,HR,Remote,D3,Mid,Very High,2020-08-13,0859464216
+180.9,76.1,37.2,13138504.0,37,0,28,Male,Bandung,Finance,Remote,SMP,Mid,High,2020-08-16,0874884070
+153.0,62.4,37.0,3279263.0,45,4,17,Female,Jakarta,Finance,Hybrid,S1,Junior,High,2020-08-19,0890884100
+164.3,87.2,37.1,12773622.0,25,0,28,Female,Bandung,IT,Hybrid,SMA,Senior,Low,2020-08-22,0868075712
+154.6,51.2,37.2,6382257.0,58,0,25,Male,Surabaya,Marketing,Hybrid,D3,Junior,Low,2020-08-25,0896015965
+184.5,60.3,37.3,4417978.0,56,2,18,Male,Surabaya,Marketing,Office,D3,Senior,Low,2020-08-28,841040
+174.9,50.1,36.5,11360846.0,18,4,18,Male,Medan,HR,Remote,S1,Mid,Medium,2020-08-31,0881829506
+163.2,86.6,36.6,10547314.0,20,4,20,Female,Jakarta,HR,Remote,S1,Senior,Low,2020-09-03,0856695565
+152.5,84.5,36.1,13529664.0,30,3,4,Male,Surabaya,HR,Office,S2,Lead,High,2020-09-06,0877658103
+162.4,56.6,36.9,11820853.0,45,0,17,Female,Surabaya,Finance,Hybrid,S2,Mid,Low,2020-09-09,0835722525
+163.0,74.7,36.1,12641771.0,42,0,27,Male,Jakarta,Finance,Office,SMA,Lead,High,2020-09-12,0848963185
+179.2,81.8,36.7,6384415.0,50,1,9,Female,Bandung,HR,Office,SMA,Junior,Very High,2020-09-15,0874674115
+175.5,70.0,36.8,5129275.0,55,3,28,Female,Bandung,HR,Office,SMP,Junior,Medium,2020-09-18,0873813565
+185.5,68.8,36.4,12007377.0,23,1,21,Male,Medan,HR,Remote,S2,Junior,Very High,2020-09-21,0856571160
+168.9,55.9,36.9,12682017.0,49,1,20,Female,Bandung,Marketing,Office,D3,Senior,Very High,2020-09-24,0886767936
+154.8,49.2,36.0,14886062.0,38,1,5,Female,Jakarta,Finance,Remote,S2,Mid,High,2020-09-27,885332
+178.5,85.4,36.1,7951412.0,33,2,0,Male,Surabaya,Marketing,Remote,D3,Junior,Very High,2020-09-30,0891485805
+180.4,85.5,37.2,7464217.0,38,2,4,Female,Bandung,Marketing,Remote,S1,Junior,High,2020-10-03,0869488206
+172.5,73.5,36.5,12316956.0,28,1,8,Male,Medan,HR,Hybrid,S2,Mid,Low,2020-10-06,0877506574
+180.8,60.3,36.2,7089642.0,54,3,11,Female,Bandung,HR,Remote,S1,Junior,Low,2020-10-09,0850057648
+169.8,60.7,36.8,14169088.0,53,0,25,Male,Jakarta,IT,Remote,SMA,Lead,High,2020-10-12,0881425912
+170.9,77.7,37.2,13300953.0,52,3,13,Male,Medan,IT,Hybrid,SMA,Mid,Low,2020-10-15,0891242298
+167.1,85.4,36.3,8147928.0,36,4,1,Female,Bandung,Marketing,Remote,SMP,Mid,Medium,2020-10-18,0863520377
+151.0,84.9,36.9,12010453.0,37,2,16,Female,Medan,Finance,Office,S2,Mid,Very High,2020-10-21,0881894820
+154.3,80.1,36.1,12054514.0,35,0,13,Female,Jakarta,HR,Office,S1,Lead,Medium,2020-10-24,0831882940
